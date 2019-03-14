@@ -1,0 +1,32 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc> http://localhost:8080/</loc>
+            
+        </url>
+    
+        <url>
+            <loc> http://localhost:8080/blog/test-2/</loc>
+            
+                <lastmod>2019-03-10</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc> http://localhost:8080/blog/test/</loc>
+            
+                <lastmod>2019-03-09</lastmod>
+            
+        </url>
+    
+    
+        <url>
+            <loc> http://localhost:8080/</loc>
+        </url>
+    
+        <url>
+            <loc> http://localhost:8080/blog/</loc>
+        </url>
+    
+    
+</urlset>
